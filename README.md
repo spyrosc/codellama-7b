@@ -6,7 +6,7 @@ This repo explains how the CodeLlama-7b can be run with a 4GB NVIDIA GPU.
 
 2. Install CUDA, preferably 11.7 or 11.8 version. 
 
-3.Install scipy and accelerate:\
+3. Install scipy and accelerate:\
 ```pip install scipy```\
 ```pip install accelerate```
 
@@ -18,6 +18,6 @@ This repo explains how the CodeLlama-7b can be run with a 4GB NVIDIA GPU.
 
 
 References:\
-1)https://huggingface.co/docs/transformers/main/en/main_classes/quantization#advanced-use-cases\
-2)https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf\
-3)https://huggingface.co/blog/codellama\
+1)https://huggingface.co/docs/transformers/main/en/main_classes/quantization#advanced-use-cases \
+2)https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf \
+3)https://huggingface.co/blog/codellama 

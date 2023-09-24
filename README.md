@@ -14,10 +14,11 @@ This repo explains how the CodeLlama-7b can be run with a 4GB NVIDIA GPU.
 
 
 5. If an error "PackageNotFoundError: No package metadata was found for bitsandbytes" comes up, the solution for me was:\
-```pip install bitsandbytes-cuda117 bitsandbytes```\
+```pip install bitsandbytes-cuda117 bitsandbytes```
 
 
 References:\
 1)https://huggingface.co/docs/transformers/main/en/main_classes/quantization#advanced-use-cases \
 2)https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf \
-3)https://huggingface.co/blog/codellama 
+3)https://huggingface.co/blog/codellama \
+4)https://github.com/thushv89/tutorials_deeplearninghero/blob/master/llms/llama_on_laptop.ipynb
